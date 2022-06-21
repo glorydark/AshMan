@@ -1,0 +1,3 @@
+languages: zh-cn
+clean-intervals: 300 #seconds
+no-clean-levels: []
